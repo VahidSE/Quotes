@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Quotes/',
+  base: '/quotes-app/',
   plugins: [
     react({
       babel: {
